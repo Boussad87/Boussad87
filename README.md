@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Boussad ARROUA
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science to become Data Scientist
+- 🌱 I’m a Data Scientist
 
 
 <!---
